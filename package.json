@@ -1,0 +1,21 @@
+{
+  "name": "react-native-fbappinvites",
+  "version": "0.0.1",
+  "description": "React native framework for Facebook App Invites Friends",
+  "main": "index",
+  "respository": {
+    "type": "git",
+    "url": "git@github.com:BondGoat/react-native-fbappinvites.git"
+  },
+  "keywords": [
+    "react-native",
+    "facebook invites",
+    "app invites"
+  ],
+  "author": "Bond G. Nguyen",
+  "licence": "WOG",
+  "peerDependencies": {
+    "react-native": ">=0.30.0"
+  },
+  "homepage": "https://github.com/BondGoat/react-native-fbappinvites/blob/master/README.md"
+}
